@@ -1,0 +1,29 @@
+{
+  "name": "tailwind_parcel_boilerplate",
+  "version": "0.1.0",
+  "description": "tailwind parcel boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannymaina/tailwind_parcel_boilerplate.git"
+  },
+  "keywords": [
+    "tailwind",
+    "parcel"
+  ],
+  "author": "Dan Maina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannymaina/tailwind_parcel_boilerplate/issues"
+  },
+  "homepage": "https://github.com/dannymaina/tailwind_parcel_boilerplate#readme",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "1.1.0",
+    "autoprefixer": "9.1.5",
+    "cssnano": "4.1.0",
+    "tailwindcss": "0.6.6"
+  }
+}
