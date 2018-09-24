@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
+    "css": "postcss src/tailwind.css -o src/style.css"
   },
   "repository": {
     "type": "git",
